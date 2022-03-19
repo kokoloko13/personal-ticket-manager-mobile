@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+pl/mandev/manager_mobile/BuildConfig.java
+ pl.mandev.manager_mobile.BuildConfig

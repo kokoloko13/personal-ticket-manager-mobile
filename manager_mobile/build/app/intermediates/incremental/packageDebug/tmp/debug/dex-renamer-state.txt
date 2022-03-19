@@ -1,0 +1,4 @@
+#Sat Mar 19 04:42:27 CET 2022
+base.0=D\:\\dev\\personal-ticket-manager\\personal-ticket-manager-mobile\\manager_mobile\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
